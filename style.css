@@ -2,6 +2,7 @@
     display: flex;
    flex-wrap: wrap;
 }
+
 .grid{
     width: 200px;
     height: 400px;
@@ -32,3 +33,9 @@
     height: 20px;
     
 }
+    
+
+    
+
+
+
